@@ -1,0 +1,29 @@
+.output {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+}
+
+.output p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.output span {
+  font-size: 16px;
+}
+.output button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #ff6347;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.output button:hover {
+  background-color: #ff4d3f;
+}
